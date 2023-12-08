@@ -62,7 +62,7 @@
 - 수행사: 오스템임플란트
 - 계약사: 디지털플러스
 
-1. [Privatae Repository]()
+1. [Privatae Repository](https://github.com/sayingu/eos)
 2. 사이트 유지보수 및 정기배송 기능 추가
 
 ### 중외정보기술 _웹 ERP 시스템_ 개발
