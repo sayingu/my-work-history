@@ -3,11 +3,14 @@
 
 ## Summary
 
-|Title|Period|Language|Customer|Contractor|
+### 상주(재택) 프로젝트
+
+|Title|Period|Lang|Customer|Contractor|
 |-----|------|--------|--------|----------|
-|LG CNS _EnTranslator_|2023. 06 ~ 2023. 12|Java|LG CNS|쉼|
+|LG CNS _EnTranslator_ 개발|2023. 06 ~ 2023. 12|React (Nextjs)|LG CNS|쉼|
 |현대오토에버|2022. 07 ~ 2022. 12|Java|현대오토에버|키트웍스|
 |SEMES|2021. 06 ~ 2021. 11|Java|SEMES|아이티사람들|
+|삼성전기|2020. 09 ~ 2021.01|Java|삼성전기|조앤소프트|
 |삼성전자|2020. 04 ~ |Java|삼성전자|노벨알엔디|
 |LG CNS _AI 빅데이터 플랫폼_|2019. 01 ~ 2019. 12|Java|LG CNS|누리꿈소프트|
 |[아주캐피탈 _상담관리시스템_ 개발](#아주캐피탈-상담관리시스템-개발)|2018. 11 ~ 2018. 12|Java|아주캐피탈|엠티콤|
@@ -28,6 +31,15 @@
 |[TELKOM _FullTrek_ 유지보수](#telkom-fulltrek-유지보수)|2010. 06 ~ 2010. 12|Java|Telkom|Uangel|
 |[영재교육종합데이터베이스 _GED (Gifted Education Database)_ 개발](#영재교육종합데이터베이스-ged-gifted-education-database-개발)|2010. 05 ~ 2010. 06|Java|한국교육개발원||
 |웹투게더 _물류 ERP 시스템_ 유지보수 및 개발|2006. 06 ~ 2009. 12|Java|웹투게더|웹투게더|
+
+### 도급 프로젝트
+
+|Title|Period|Lang|Customer|
+|-----|------|--------|--------|
+|_입사지원서_ 퍼블리싱|2020. 02 ~ 2020. 02|HTML CSS|개인|
+|mooni _쇼핑몰_ 유지보수|2020. 02 ~ 2020. 02|Java|mooni|
+|_인천공항 출도착 모니터링 웹_ 개발|2020. 02 ~ 2020. 02|Java|개인|
+|_홍대 시디과 졸업 Hive Mind_ 개발|2019. 12 ~ 2019. 12|HTML CSS|개인|
 
 ## Detail
 
