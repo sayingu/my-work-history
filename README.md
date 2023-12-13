@@ -3,8 +3,6 @@
 
 ## 상주 / 재택 프로젝트
 
-### Summary
-
 |Title|Period|Lang|Customer|Contractor|
 |-----|------|--------|--------|----------|
 |LG CNS _EnTranslator_ 개발 (재택)|2023. 06 ~ 2023. 12|React (Nextjs)|LG CNS|쉼|
@@ -33,7 +31,7 @@
 |[영재교육종합데이터베이스 _GED (Gifted Education Database)_ 개발](#영재교육종합데이터베이스-ged-gifted-education-database-개발)|2010. 05 ~ 2010. 06|Java|한국교육개발원||
 |웹투게더 _물류 ERP 시스템_ 유지보수 및 개발|2006. 06 ~ 2009. 12|Java|웹투게더|웹투게더|
 
-### Detail
+### 상주 / 재택 프로젝트 상세
 
 #### 아주캐피탈 _상담관리시스템_ 개발
 
@@ -207,7 +205,7 @@
 |Title|Period|Lang|Customer|
 |-----|------|--------|--------|
 |ITI _SMB 삼성병원_ 개발|2021. 12 ~ 현재|Java|ITI|
-|영인터내셔널 _모니터링 웹 등_ 개발 및 유지보수|2021. 01 ~ 현재|Java, React|영인터내셔널|
+|[영인터내셔널 _모니터링 웹 등_ 개발 및 유지보수](#영인터내셔널-모니터링-웹-등-개발-및-유지보수)|2021. 01 ~ 현재|Java, React|영인터내셔널|
 |ValueMark _인트라넷_ 고도화 개발|2023. 03 ~ 2023. 05|Java, React|퓨처솔루션|
 |에이치에스씨엠티 _C-Water NAVI_ 유지보수|2022. 02 ~ 2022. 05|Java|에이치에스씨엠티|
 |LG CNS _Hybrid Agile 대쉬보드_ 유지보수|2021. 11 ~ 2021. 12|React|LG CNS|
@@ -215,8 +213,25 @@
 |잉글리쉬에그 _디지털러닝_ 개발|2021. 01 ~ 2021. 04|React|기반|
 |워킹마스터 _CRM_ 개발|2020. 04 ~ 2020. 06|Java|나인투식스|
 |mooni _쇼핑몰_ 유지보수|2020. 02 ~ 2020. 02|Java|mooni|
-|_인천공항 출도착 모니터링 웹_ 개발|2020. 02 ~ 2020. 02|Java|개인|
-|_입사지원서_ 퍼블리싱|2020. 02 ~ 2020. 02|HTML, CSS|개인|
+|[_인천공항 출도착 모니터링 웹_ 개발](https://github.com/sayingu/icn-airport)|2020. 02 ~ 2020. 02|Java|개인|
 |SKT _Jebo Now_ 개발|2019. 12 ~ 2020. 01|Java|오키도키|
-|_홍대 시디과 졸업 Hive Mind_ 개발|2019. 12 ~ 2019. 12|HTML, CSS|개인|
-|LG전자 _ACP5_ 유지보수|2019. 06 ~ 2019. 09|Angular||
+|[_홍대 시디과 졸업 Hive Mind_ 개발](https://github.com/sayingu/hive-mind-2019)|2019. 12 ~ 2019. 12|HTML, CSS|개인|
+|[LG전자 _ACP5_ 유지보수](https://github.com/sayingu/coldchain)|2019. 04 ~ 2019. 06|Express, Angular||
+
+### 도급 프로젝트 (Shym) 상세
+
+#### 영인터내셔널 _모니터링 웹 등_ 개발 및 유지보수
+
+- 기간: 2021. 01 ~ 현재 (약 3개월에 1회성)
+- 발주사: [영인터내셔널](https://youngint.com/)
+
+1. 스티커 출력 관리 시스템
+2. 스티커 출력 (폴라폴라 스티커 제작소)
+3. 폴라코드 관리 시스템
+4. 영수증 출력 앱 (안드로이드)
+
+## 기타
+
+|Title|Description|Lang|
+|-----|------|--------|
+|[대학 과제 도움](https://github.com/sayingu/college-exams)|알고리즘, 언어기초, 프로젝트 등|C++, Python, Java|
