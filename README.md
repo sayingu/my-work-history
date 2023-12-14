@@ -232,7 +232,7 @@
 
 #### 워킹마스터 _CRM_ 개발
 
-[<div style="height:200px;overflow-y:scroll;"><div><img class="full-width" src="images/walking-master-kakaotalk-screenshot1.png" alt="" /></div></div>](images/walking-master-kakaotalk-screenshot1.png)
+![발진단서 이미지](images/walking-master-kakaotalk-screenshot-collage1.png)
 
 - 기간: 2020. 04 ~ 2021. 04
 - 발주사: 나인투식스
