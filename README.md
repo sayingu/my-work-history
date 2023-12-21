@@ -5,7 +5,7 @@
 
 |Title|Period|Lang|Customer|Contractor|
 |-----|------|--------|--------|----------|
-|LG CNS _EnTranslator_ 개발 (재택)|2023. 06 ~ 2023. 12|React (Nextjs)|LG CNS|쉼|
+|[LG CNS _EnTranslator_ 개발 (재택)](#lg-cns-entranslator-개발)|2023. 06 ~ 2023. 12|React (Nextjs)|LG CNS|쉼|
 |현대오토에버 _임직원몰_ 유지보수 (재택)|2022. 07 ~ 2022. 12|Java, Vuejs|현대오토에버|키트웍스|
 |LG CNS _VPA_ 유지보수 (재택)|2022. 01 ~ 2022. 03|Java, React|LG CNS|쉼|
 |SEMES|2021. 06 ~ 2021. 11|Java|SEMES|아이티사람들|
@@ -33,6 +33,18 @@
 
 ### 상주 / 재택 프로젝트 상세
 
+#### LG CNS EnTranslator 개발
+
+- 기간: 2018. 11 ~ 2018. 12
+- 발주사: LG ENSOL
+- 수행사: LG CNS
+- 계약사: 쉼
+
+1. React 프론트엔드 개발 요청을 받았을 때, Nextjs를 사용하기로 생각 (서버 기능도 사용 및 배포까지)
+2. App router 는 출시 된지 얼마 안되었기에, Page router 로 진행
+3. 대형 프로젝트는 아니기 때문에, 컴포넌트의 구조를 단순화 함
+4. 구현이 복잡한 기능에만 추가 라이브러리를 사용
+
 #### 아주캐피탈 _상담관리시스템_ 개발
 
 - 기간: 2018. 11 ~ 2018. 12
@@ -51,11 +63,11 @@
 - 수행사: 프레임아웃
 - 계약사: 프레임아웃
 
-1. [Privatae Repository](https://github.com/sayingu/travlemate)
-2. ASIS ASP에서 TOBE JAVA로 개편 프로젝트
-3. 주로 상품전시에 관련하여 프론트 및 관리자부분 작업, 네이버 페이 적용
-4. 진행중에 프레임워크와 개발팀이 변경됨
-5. _변경됨 프레임워크 소스의 상태는 괜찮은편, Maven등의 빌드툴 적용됨_
+1. ASIS ASP에서 TOBE JAVA로 개편 프로젝트
+2. 주로 상품전시에 관련하여 프론트 및 관리자부분 작업, 네이버 페이 적용
+3. 진행중에 프레임워크와 개발팀이 변경됨
+4. _변경됨 프레임워크 소스의 상태는 괜찮은편, Maven등의 빌드툴 적용됨_
+5. [Privatae Repo](https://github.com/sayingu/travlemate)
 
 #### 오스템임플란트 _DENALL_ 유지보수
 
@@ -64,8 +76,8 @@
 - 수행사: 오스템임플란트
 - 계약사: 디지털플러스
 
-1. [Privatae Repository](https://github.com/sayingu/eos)
-2. 사이트 유지보수 및 정기배송 기능 추가
+1. 사이트 유지보수 및 정기배송 기능 추가
+2. [Privatae Repo](https://github.com/sayingu/eos)
 
 #### 중외정보기술 _웹 ERP 시스템_ 개발
 
@@ -143,8 +155,8 @@
 - 수행사: 엠로
 - 계약사: 엠로
 
-1. [가장 질이 떨어지는 샘플 소스](https://github.com/sayingu/vaatzit-sample)
-2. Maven등의 빌드 도구 미사용, 기본 설정은 .vscode/settings.json 참조
+1. Maven등의 빌드 도구 미사용, 기본 설정은 .vscode/settings.json 참조
+2. ~~제공된 샘플소스의 상태가...~~ [Private Repo](https://github.com/sayingu/vaatzit-sample)
 
 #### 국토해양부 해양안전종합정보시스템 _GICOMS_ 개발
 
@@ -170,11 +182,11 @@
 - 수행사: KB신용정보
 - 계약사: 이랜서
 
-1. [Private Repository](https://github.com/sayingu/2011.KBCI.01.I-WIN)
-2. Maven등의 빌드 도구 미사용, 기본 설정은 .vscode/settings.json 참조
-3. Java version: 1.4
-4. JSP 프로젝트
-5. EUC-KR 인코딩
+1. Maven등의 빌드 도구 미사용, 기본 설정은 .vscode/settings.json 참조
+2. Java version: 1.4
+3. JSP 프로젝트
+4. EUC-KR 인코딩
+5. [Private Repo](https://github.com/sayingu/2011.KBCI.01.I-WIN)
 
 #### TELKOM _FullTrek_ 유지보수
 
@@ -195,30 +207,46 @@
 - 수행사:
 - 계약사: 이랜서
 
-1. [Private Repository](https://github.com/sayingu/kedi_ged)
-2. Maven등의 빌드 도구 미사용, 기본 설정은 .vscode/settings.json 참조
-3. JSP 프로젝트
-4. EUC-KR 인코딩
+1. Maven등의 빌드 도구 미사용, 기본 설정은 .vscode/settings.json 참조
+2. JSP 프로젝트
+3. EUC-KR 인코딩
+4. [Private Repo](https://github.com/sayingu/kedi_ged)
 
 ## 도급 프로젝트 (Shym)
 
 |Title|Period|Lang|Customer|
 |-----|------|--------|--------|
-|ITI _SMB 삼성병원_ 개발|2021. 12 ~ 현재|Java|ITI|
+|[ITI _SMB_ 개발 및 유지보수](#iti-smb-개발-및-유지보수)|2021. 12 ~ 현재|Java|ITI|
 |[영인터내셔널 _모니터링 웹 등_ 개발 및 유지보수](#영인터내셔널-모니터링-웹-등-개발-및-유지보수)|2021. 01 ~ 현재|Java, React|영인터내셔널|
 |ValueMark _인트라넷_ 고도화 개발|2023. 03 ~ 2023. 05|Java, React|퓨처솔루션|
 |에이치에스씨엠티 _C-Water NAVI_ 유지보수|2022. 02 ~ 2022. 05|Java|에이치에스씨엠티|
 |LG CNS _Hybrid Agile 대쉬보드_ 유지보수|2021. 11 ~ 2021. 12|React|LG CNS|
 |_ParkB Back-Office_ 추가 개발|2021. 04 ~ 2021. 05|Java|한국스플라주식회사|
-|잉글리쉬에그 _디지털러닝_ 개발|2021. 01 ~ 2021. 04|React|기반|
-|워킹마스터 _CRM_ 개발|2020. 04 ~ 2021. 04|Java|나인투식스|
-|mooni _쇼핑몰_ 유지보수|2020. 02 ~ 2020. 02|Java|mooni|
-|[_인천공항 출도착 모니터링 웹_ 개발](https://github.com/sayingu/icn-airport)|2020. 02 ~ 2020. 02|Java|개인|
+|[잉글리쉬에그 _디지털러닝_ 개발](#잉글리쉬에그-디지털러닝-개발)|2021. 01 ~ 2021. 04|React|기반|
+|[워킹마스터 _CRM_ 개발](#워킹마스터-crm-개발)|2020. 04 ~ 2021. 04|Java|나인투식스|
+|_인천공항 출도착 모니터링 웹_ 개발 [Private Repo](https://github.com/sayingu/icn-airport)|2020. 02 ~ 2020. 02|Java|개인|
 |SKT _Jebo Now_ 개발|2019. 12 ~ 2020. 01|Java|오키도키|
-|[_홍대 시디과 졸업 Hive Mind_ 개발](https://github.com/sayingu/hive-mind-2019)|2019. 12 ~ 2019. 12|HTML, CSS|개인|
-|[LG전자 _ACP5_ 유지보수](https://github.com/sayingu/coldchain)|2019. 04 ~ 2019. 06|Express, Angular||
+|_홍대 시디과 졸업 Hive Mind_ 개발 [Private Repo](https://github.com/sayingu/hive-mind-2019)|2019. 12 ~ 2019. 12|HTML, CSS|개인|
+|LG전자 _ACP5_ 유지보수 [Private Repo](https://github.com/sayingu/coldchain)|2019. 04 ~ 2019. 06|Express, Angular||
 
 ### 도급 프로젝트 (Shym) 상세
+
+#### ITI _SMB_ 개발 및 유지보수
+
+- 기간: 2021. 12 ~ 현재 (약 6개월에 1회성)
+- 발주사: [ITI TECH](https://ititech.co.kr/)
+
+1. SMB 개요: 스마트 병원 구축을 위한 타블릿 앱의 백엔드 및 관리자 개발 및 유지보수
+2. 삼성서울병원 백엔드 및 관리자 개발
+3. SMB 유지보수
+4. Private Repos
+    - [SMB Standard Api](https://github.com/ititech/SMB_Standard_Api)
+    - [SMB Standard Web](https://github.com/ititech/SMB_Standard_Web)
+    - [SMB 삼성서울병원 Api](https://github.com/ititech/smb_samsung_idc)
+    - [SMB 삼성서울병원 Web](https://github.com/ititech/smb_samsung_web)
+    - [SMB 삼성서울병원 App](https://github.com/ititech/SMB_Android_Samsung_Seoul)
+    - [SMB 삼성서울병원 Test App](https://github.com/ititech/SMB_Android_Samsung_Seoul_Test)
+    - [SMB 삼성서울병원 Websocket Test](https://github.com/sayingu/smb-samsung-socket-sample)
 
 #### 영인터내셔널 _모니터링 웹 등_ 개발 및 유지보수
 
@@ -227,8 +255,21 @@
 
 1. 전국 스티커출력 기계 관리시스템
 2. 스티커출력 기계(폴라폴라 스티커 제작소)
-3. 폴라코드 관리시스템
-4. 영수증출력 앱 (안드로이드)
+3. 폴라코드 관리시스템 [Private Repo](https://github.com/YoungInt/igloo-admin)
+4. 영수증출력 앱 (안드로이드) [Private Repo](https://github.com/sayingu/yrp)
+![영수증출력 앱](images/yrp-screenshot-collage1.png)
+
+#### 잉글리쉬에그 _디지털러닝_ 개발
+
+![이미지](images/english-egg-dl-screenshot-collage1.png)
+
+- 기간: 2021. 01 ~ 2021. 04
+- 발주사: 잉글리쉬에그
+- 수행사: 기반
+
+1. 초등대상 디지털러닝 사이트 프로토타입
+2. [Konva 라이브러리](https://konvajs.org/index.html)를 사용하여 말풍선표시, 퀴즈표시등을 처리
+3. [Private Repository](https://github.com/sayingu/englishegg)
 
 #### 워킹마스터 _CRM_ 개발
 
@@ -237,14 +278,15 @@
 - 기간: 2020. 04 ~ 2021. 04
 - 발주사: 나인투식스
 
-1. [Private Repository](https://github.com/WalkingMaster/wmclub-admin)
-2. 발사이즈를 측정한 고객에게 결과 보고서를 카톡(알림톡), 문자 등으로 발송
-3. 발송 대행사는 [비즈뿌리오](https://www.bizppurio.com/)를 사용
-4. AWS 배포 설정
-5. ~~일정을 제대로 맞추지 못했음 🙏~~
+1. 발사이즈를 측정한 고객에게 결과 보고서를 카톡(알림톡), 문자 등으로 발송
+2. 발송 대행사는 [비즈뿌리오](https://www.bizppurio.com/)를 사용
+3. AWS 배포 설정
+4. ~~일정을 제대로 맞추지 못했음 🙏~~
+5. [Private Repository](https://github.com/WalkingMaster/wmclub-admin)
 
 ## 기타
 
 |Title|Description|Lang|
 |-----|------|--------|
-|[대학 과제 도움](https://github.com/sayingu/college-exams)|알고리즘, 언어기초, 프로젝트 등|C++, Python, Java|
+|대학 과제 도움 [Private Repo](https://github.com/sayingu/college-exams)|알고리즘, 언어기초, 프로젝트 등|C++, Python, Java|
+|Sneat - Admin Template [Private Repo](https://github.com/sayingu/materialize-admin-v12.5.0)|[Materialize 어드민 템플릿](https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html/), 어드민 기본 디자인으로 사용|Html, React|
